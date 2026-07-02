@@ -24,4 +24,7 @@ I am an Information and Communication Technology (ICT) student specializing in b
 ![REST API](https://img.shields.io/badge/RESTful_APIs-FF4500?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaMaher05&show_icons=true&theme=radium)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MostafaMaher05&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
