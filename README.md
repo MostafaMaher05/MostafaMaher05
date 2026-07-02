@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Mostafa Maher
 ### 👨‍💻 Junior Software Developer | Full-Stack Architect (Go/React) | ICT Student
 
-I am an Information and Communication Technology (ICT) student specializing in building high-performance web and mobile applications. I enjoy architecting decoupled full-stack systems, optimizing databases, and writing clean, scalable code.
+I am an Information and Communication Technology (ICT) student specializing in building high-performance web and mobile applications, alongside a strong foundation in IT infrastructure and network administration. I enjoy architecting decoupled full-stack systems, optimizing databases, and writing clean, scalable code.
 
 ## 🚀 About Me
 - 🎓 Pursuing a Bachelor of Technology in **ICT** at **New Cairo Technological University**.
 - 💻 Experienced in **Full-Stack Web Development** (React.js & Go), **Desktop Apps** (C++), and **Android Development** (Java).
 - 🏆 Lead Architect of the **NCT-Student-Information-System**, a decoupled platform resolving complex grading matrices.
+- ⚙️ Trained and skilled in Enterprise IT Infrastructure & Networking (**CCNA, CCNP, MCSA**).
 - 📫 Reach out to me via email: **mostafamaher793@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-maher5)
 
@@ -23,8 +24,11 @@ I am an Information and Communication Technology (ICT) student specializing in b
 **Databases & Architecture:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-FF4500?style=for-the-badge)
 
+**IT & Infrastructure:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MostafaMaher05&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MostafaMaher05&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
